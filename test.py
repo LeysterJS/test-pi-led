@@ -4,7 +4,7 @@ import os
 import glob
 
 # Pin definitions for LEDs
-red_led = LED(17)  # Adjust pin numbers based on your setup
+red_led = LED(17)
 green_led = LED(27)
 blue_led = LED(22)
 
